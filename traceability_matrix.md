@@ -1,4 +1,4 @@
-This matrix maps the requirements to the implemented functions in the Triangle Checker App.
+
 
 | Requirement ID | Requirement Description                            | Code Reference                  | Status    |
 |----------------|----------------------------------------------------|---------------------------------|-----------|
