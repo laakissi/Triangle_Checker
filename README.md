@@ -1,1 +1,25 @@
 # Triangle_Checker
+
+A simple Python application that:
+- Requires user login
+- Accepts three positive numbers
+- Checks if they can form a valid triangle using the Triangle Inequality Theorem
+
+---
+
+## 🚀 Features
+
+- ✅ User login authentication
+- ✅ Input validation (no zero or negative input)
+- ✅ Triangle inequality theorem validation
+- 🔁 Restarts automatically on invalid input
+
+---
+
+## 🧪 How to Use
+
+1. Clone the repo or download the code
+2. Run the script using Python:
+
+```bash
+python triangle_checker.py
