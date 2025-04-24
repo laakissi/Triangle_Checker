@@ -48,8 +48,5 @@ OLaaki
 
 MIT License
 
-```bash
-python triangle_checker.py
-
 
 
