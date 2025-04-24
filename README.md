@@ -21,9 +21,6 @@ A simple Python application that:
 1. Clone the repo or download the code
 2. Run the script using Python:
 
-```bash
-python triangle_checker.py
-
 ## 💡 Example Output
 
 Enter your username: Abcde
@@ -45,4 +42,9 @@ OLaaki
 ## 📜 License
 
 MIT License
+
+```bash
+python triangle_checker.py
+
+
 
