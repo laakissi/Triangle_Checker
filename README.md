@@ -24,12 +24,17 @@ A simple Python application that:
 ## 💡 Example Output
 
 Enter your username: Abcde
+
 Enter your password: mySWUST
+
 Login successful!
 
 Enter three positive numbers to check if they form a triangle:
+
 Enter first number: 3
+
 Enter second number: 4
+
 Enter third number: 5
 The numbers form a valid triangle.
 
